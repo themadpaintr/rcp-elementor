@@ -4,4 +4,4 @@
 ### V2 Changes
 - Removed repeater
 - Removed all Powerpack functionality
-- Replaced Role by RCP Memberships
+- Replaced Role with RCP Memberships

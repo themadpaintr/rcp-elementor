@@ -1,2 +1,6 @@
 # rcp-elementor
-Custom plugin to restrict Elementor widgets via Restrict Content Pro
+
+# Changes
+- Changed to simpler plugin initialisation in plugin.php
+- Removed helper classes support
+- Removed date and taxonomy functions

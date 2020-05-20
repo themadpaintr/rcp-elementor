@@ -1,4 +1,4 @@
-Built based on plugins 
+**Built based on plugins** 
 - Powerpack Elements (https://wordpress.org/plugins/powerpack-lite-for-elementor/) 
 - Visibility control for Elementor (https://wordpress.org/plugins/visibility-logic-elementor/)
 
